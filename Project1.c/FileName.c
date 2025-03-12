@@ -7,7 +7,9 @@ int main(void) {
 	printf("56 - 32 = %d\n", 56 - 32);
 	printf("11 * 31 = %d\n", 11 * 31);
 	printf("72 / 12 = %d\n", 72 / 12);
-	printf("ÀÛ¼ºÀÚ ÃµÁ¤¾Æ\n");
+        printf("FirstApp í”„ë¡œê·¸ë¨\n");
+	printf("ì‘ì„±ì: ì²œì •ì•„\n");
+	printf("ë²„ì „: 1.0\n");
 
 	return 0;
 
